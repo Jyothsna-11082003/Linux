@@ -1,4 +1,4 @@
-#Linux Guide: History, Commands, Flavors & Permissions
+**Linux Guide: History, Commands, Flavors & Permissions**
 
 This PDF serves as a comprehensive beginner-to-intermediate guide for learning essential Linux concepts. It includes:
 
